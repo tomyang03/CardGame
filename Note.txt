@@ -8,4 +8,12 @@ you will get warning that the git history are not related to each other,
 
 because you have done git init...which recreates the git history.
 
-so the git history from the first computer is no longer available.s
+so the git history from the first computer is no longer available.
+
+Since the 2 commit history's from the 2 laptops are totally unrelated, 
+we had to use the -f flag to forcefully
+
+push the second commmit,
+
+after the -f forced commit, the commit history will no longer contain the 
+first commit from the first laptop.
