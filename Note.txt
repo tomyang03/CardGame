@@ -1,0 +1,11 @@
+To get the GIT  folder (git history) you need to use GIT clone.
+
+what happens when you download a folder and use git init...
+
+and then you try to push...
+
+you will get warning that the git history are not related to each other,
+
+because you have done git init...which recreates the git history.
+
+so the git history from the first computer is no longer available.s
