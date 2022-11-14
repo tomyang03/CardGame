@@ -1,0 +1,10 @@
+# Local Netlify folder
+client/.env
+server/.env
+.netlify
+server/node_modules
+client/node_modules
+client/build
+SideNotes.txt
+Client.Config.txt
+tomlbackup
